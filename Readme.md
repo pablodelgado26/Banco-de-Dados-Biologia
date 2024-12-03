@@ -4,6 +4,21 @@
 
 Este projeto consiste na criação de um banco de dados para um site de biologia. O banco de dados armazena informações sobre carreiras, usuários, simulados, resultados, autores de notícias, notícias, professores, aulas e entrevistas. O objetivo é fornecer uma estrutura robusta para gerenciar e acessar essas informações de maneira eficiente.
 
+## Estrutura do Banco de Dados
+
+### Modelo Entidade-Relacionamento (MER)
+
+**Realizado por Gabriela Moleta**
+
+![MER](mer-der/mer01.jpeg)
+![MER](mer-der/mer02.jpeg)
+
+### Diagrama Entidade-Relacionamento (DER)
+
+**Der não realizado**
+
+**Responsáveis: Nicole Cau e Ana Clara Micheletto**
+
 ## Tabelas e Inserções
 
 ### Tabelas Criadas
