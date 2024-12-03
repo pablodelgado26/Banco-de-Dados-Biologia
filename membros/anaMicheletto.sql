@@ -1,11 +1,3 @@
-CREATE TABLE noticias (
-    id_noticia SERIAL PRIMARY KEY,
-    titulo VARCHAR(150),
-    imagem_noticia BLOB,
-    url_noticia TEXT,
-    id_autor INTEGER,
-    FOREIGN KEY (id_autor) REFERENCES autor_noticia(id_autor)
-);
   
   INSERT INTO
     ('Aracnídeos podem ser aliados na promoção da saúde humana
